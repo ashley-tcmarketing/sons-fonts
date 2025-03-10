@@ -1,0 +1,24 @@
+/* Aeroport Font */
+@font-face {
+  font-family: "Aeroport";
+  src: url(Aeroport-bold.eot?v=4501669306956787989);
+  src: url(Aeroport-bold.eot?%23iefix&v=4501669306956787989) format("embedded-opentype"), url(Aeroport-bold.woff2?v=8430379176844585169) format("woff2"), url(Aeroport-bold.woff?v=16367529782070192572) format("woff"), url(Aeroport-bold.ttf?v=13815612108311626995) format("truetype"), url(Aeroport-bold.svg%23Aeroport-Bold?60537) format("svg");
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Aeroport";
+  src: url(Aeroport-light.eot?v=741492022319172014);
+  src: url(Aeroport-light.eot?%23iefix&v=741492022319172014) format("embedded-opentype"), url(Aeroport-light.woff2?v=16549788850746659353) format("woff2"), url(Aeroport-light.woff?v=14499325069445092940) format("woff"), url(Aeroport-light.ttf?v=8417430077711128339) format("truetype"), url(Aeroport-light.svg%23Aeroport-Light?60537) format("svg");
+  font-style: normal;
+  font-weight: 100;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Aeroport";
+  src: url(Aeroport-light-italic.eot?v=4852377472607028657) format("embedded-opentype"), url(Aeroport-light-italic.woff2?v=10251142074552535989) format("woff2"), url(Aeroport-light-italic.woff?v=7947351889260190597) format("woff"), url(Aeroport-light-italic.ttf?v=16513230624831051278) format("truetype"), url(Aeroport-light-italic.svg%23Aeroport-LightItalic?60537) format("svg");
+  font-style: italic;
+  font-weight: 100;
+  font-display: fallback;
+}
